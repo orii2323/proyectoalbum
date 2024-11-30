@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="signUp.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+</head>
+<body> 
+<h3>NUEVO ÁLBUM</h3>
+    <form>
+        <fieldset>
+            <div class="grupo1"></div>
+            <label for="Titulo">Título</label>
+            <input type="text" id="Titulo" placeholder="Ingrese el título" required>
+            <br><br>
+            <label for="Año">Año de lanzamiento del álbum</label>
+            <input type="number" id="Anio" placeholder="Ingrese el año" required>
+            <br><br>
+            <label for="Descripcion">Descripción</label>
+            <textarea id="Descripcion" placeholder="Deja tu descripción" maxlength="400" required></textarea>
+            <br><br>
+            <label for="URL">URL</label>
+            <input type="url" id="URL" placeholder="Agregar URL" required>
+            <br><br>
+            <button type="button" id="button-agregar">Agregar Álbum</button>
+        </fieldset>
+    </form>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="agregaralbum.js"></script>
+</body>
+</html>

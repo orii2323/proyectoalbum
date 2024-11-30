@@ -1,0 +1,24 @@
+h4 {
+    font-family: "Permanent Marker", cursive;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 100px;
+}
+
+.contenedor8 img {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    
+}
+
+.tacho {
+    transition: 0.5s;
+    object-fit: cover;
+
+}
+
+.tacho:hover {
+    transform: scale(1.2);
+}
+

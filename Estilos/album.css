@@ -1,0 +1,162 @@
+h1 {
+    font-family: "Edu SA Beginner", cursive;
+    font-size: smaller;
+    text-align: center;
+    color: burlywood;
+    font-size: 35px;
+
+}
+
+body {
+    background: grey;
+
+}
+
+
+p {
+    text-align: center;
+    color: rgb(9, 8, 8);
+}
+
+h3 {
+    text-align:left;
+    color: rgb(233, 3, 3);
+    font-size: 30px;
+    font-family: "Klee One", cursive;
+
+}
+
+li {
+    border: 2px solid grey;
+    width: 30%;
+    background-color: aquamarine;
+
+}
+
+#logo {
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: rgb(43, 162, 226);
+    
+    
+
+
+
+}
+
+span {
+    line-height: 110px;
+}
+
+li {
+    text-align: center;
+    width: 30%;
+    
+}
+
+span {
+    line-height: 110px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a {
+    display: grid;
+}
+
+img {
+    float: left;
+
+}
+
+.contenedor {
+    position: relative;
+}
+
+.año{
+    position: absolute;
+    left: 145px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.contenedor1 { 
+    position: relative;
+}
+
+.año1 {
+    position: absolute;
+    left: 145px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor2 {
+    position: relative;
+}
+
+.año2 {
+    position: absolute;
+    left: 145px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor3 {
+    position: relative;
+}
+
+.año3 {
+    position: absolute;
+    left: 145px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor4 {
+    position: relative;
+}
+
+.año4 {
+    position: absolute;
+    left: 145px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor5 {
+    position: relative;
+}
+
+.año5 {
+    position: absolute;
+    left: 145px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenedor6 {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+.insta1:hover {
+    background-color:greenyellow
+
+}
+
+.face2:hover {
+    background-color: greenyellow ;
+}
+
+.youtube3:hover {
+    background-color: greenyellow;
+}
+
+
+
+          

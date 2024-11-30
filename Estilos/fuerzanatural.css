@@ -1,0 +1,21 @@
+    
+h4 {
+    text-align: center;
+    font-size: 40px;
+    background-color:blueviolet;
+    
+}
+
+.centrado {
+    
+    font-family: "Macondo", cursive;
+    text-align: center;
+    font-size: 55px;
+    margin-left: 5%;
+
+}
+
+body {
+    background-image: url("/Img/imagenfondo.png");
+}
+    
